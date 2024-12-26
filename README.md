@@ -21,6 +21,7 @@ This project aims to assist an airline company in strategically expanding into t
 2. Normalized_ROUTE: Combined origin and destination for round trips
    
 **Flight Data**
+
 1.TOTAL_REVENUE: Includes ticket fare and baggage fare
 2.TOTAL_COST: Covers distance-related costs, airport charges, and delay charges
 3.AIRPORT_CHARGES: For origin and destination, based on airport type
