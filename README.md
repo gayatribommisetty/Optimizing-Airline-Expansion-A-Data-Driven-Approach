@@ -16,5 +16,44 @@ This project aims to assist an airline company in strategically expanding into t
 ## Visualizations
 - Pie chart showing the distribution of medium vs large airports.
 -[image](https://github.com/user-attachments/assets/bc220771-f7d4-4087-907f-0f4ebc2f4dd9)
+## Top 10 Busiest Routes
+(Insert data here from analysis)
 
+## 10 Most Profitable Round Trip Routes
+Los Angeles (LAX) to San Francisco (SFO) is the busiest route with 13,068 flights. The second busiest route is Las Vegas (LAS) to Los Angeles (LAX) with 11,290 flights. Following that, LaGuardia (LGA) to Chicago O'Hare (ORD) sees 11,092 flights.
+The Honolulu (HNL) to Kahului (OGG) route in Hawaii operates 9,268 flights. Los Angeles (LAX) to Seattle (SEA) handles 8,898 flights, while Atlanta (ATL) to Orlando (MCO) serves 8,620 flights.
+Portland (PDX) to Seattle (SEA) maintains 8,540 flights. Atlanta (ATL) to Fort Lauderdale (FLL) operates 8,268 flights. The Atlanta (ATL) to LaGuardia (LGA) route runs 7,894 flights, and Boston (BOS) to LaGuardia (LGA) rounds out the top routes.
+
+## Recommended Round Trip Routes for Investment
+1. Route 1: (Details)
+2. Route 2: (Details)
+3. Route 3: (Details)
+4. Route 4: (Details)
+5. Route 5: (Details)
+
+## Break-Even Analysis
+- Number of round trip flights needed to break even on airplane costs:
+  - Route 1: (Number of flights)
+  - Route 2: (Number of flights)
+  
+- Routes with break-even analysis:
+  - Route A: (Details)
+  - Route B: (Details)
+
+## Additional Insights
+(Insert key findings and insights derived from the analysis)
+
+## Technical Skills Demonstrated
+- Python programming
+- Data manipulation with Pandas and NumPy
+- Data visualization using Seaborn, Matplotlib, and Plotly Express
+- Statistical analysis and outlier detection
+- Financial modeling and break-even analysis
+
+## Soft Skills Applied
+- Problem-solving
+- Data interpretation
+- Strategic thinking
+- Decision-making based on data insights
+- Clear communication of complex findings
 
