@@ -15,6 +15,6 @@ This project aims to assist an airline company in strategically expanding into t
 7. **Route Optimization**: Selecting the most profitable routes for investment.
 ## Visualizations
 - Pie chart showing the distribution of medium vs large airports.
-  [image](https://github.com/user-attachments/assets/bc220771-f7d4-4087-907f-0f4ebc2f4dd9)
+-[image](https://github.com/user-attachments/assets/bc220771-f7d4-4087-907f-0f4ebc2f4dd9)
 
 
