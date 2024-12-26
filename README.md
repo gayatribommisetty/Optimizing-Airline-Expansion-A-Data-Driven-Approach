@@ -38,6 +38,8 @@ This project aims to assist an airline company in strategically expanding into t
 -[image](https://github.com/user-attachments/assets/bc220771-f7d4-4087-907f-0f4ebc2f4dd9)
 
 ## Top 10 Busiest Routes
+![Unknown](https://github.com/user-attachments/assets/3b34f3e4-ae3d-420b-ac3f-73b0708feb6a)
+
 Los Angeles (LAX) to San Francisco (SFO) is the busiest route with 13,068 flights. The second busiest route is Las Vegas (LAS) to Los Angeles (LAX) with 11,290 flights. Following that, LaGuardia (LGA) to Chicago O'Hare (ORD) sees 11,092 flights.
 The Honolulu (HNL) to Kahului (OGG) route in Hawaii operates 9,268 flights. Los Angeles (LAX) to Seattle (SEA) handles 8,898 flights, while Atlanta (ATL) to Orlando (MCO) serves 8,620 flights.
 Portland (PDX) to Seattle (SEA) maintains 8,540 flights. Atlanta (ATL) to Fort Lauderdale (FLL) operates 8,268 flights. The Atlanta (ATL) to LaGuardia (LGA) route runs 7,894 flights, and Boston (BOS) to LaGuardia (LGA) rounds out the top routes.
