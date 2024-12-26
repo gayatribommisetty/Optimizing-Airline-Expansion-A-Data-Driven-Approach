@@ -13,3 +13,7 @@ This project aims to assist an airline company in strategically expanding into t
 5. **Airport Classification**: Filtering for medium and large airports.
 6. **Financial Calculations**: Analyzing profitability and break-even points.
 7. **Route Optimization**: Selecting the most profitable routes for investment.
+## Visualizations
+- Pie chart showing the distribution of medium vs large airports.
+- ![image](https://github.com/user-attachments/assets/4d14d52d-0eb9-42b6-b3ce-efaa679f75bf)
+
