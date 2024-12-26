@@ -23,15 +23,10 @@ This project aims to assist an airline company in strategically expanding into t
 **Flight Data**
 
 1.TOTAL_REVENUE: Includes ticket fare and baggage fare
-
 2.TOTAL_COST: Covers distance-related costs, airport charges, and delay charges
-
 3.AIRPORT_CHARGES: For origin and destination, based on airport type
-
 4.DELAY_CHARGES: For departure and arrival delays
-
 5.TOTAL_PROFIT: Revenue minus cost per round trip
-
 6.BREAK_EVEN: Number of flights needed for a route to break even
 
 ## Key Constraints and Assumptions
