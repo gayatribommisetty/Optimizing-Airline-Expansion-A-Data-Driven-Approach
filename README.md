@@ -35,7 +35,8 @@ This project aims to assist an airline company in strategically expanding into t
    
 ## Visualizations
 - Pie chart showing the distribution of medium vs large airports.
--[image](https://github.com/user-attachments/assets/bc220771-f7d4-4087-907f-0f4ebc2f4dd9)
+![Unknown-5](https://github.com/user-attachments/assets/a7ce9724-4f01-4ce0-8e32-e4af44782cda)
+
 
 ## Top 10 Busiest Routes
 ![Unknown](https://github.com/user-attachments/assets/3b34f3e4-ae3d-420b-ac3f-73b0708feb6a)
