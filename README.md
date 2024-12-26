@@ -45,6 +45,8 @@ The Honolulu (HNL) to Kahului (OGG) route in Hawaii operates 9,268 flights. Los 
 Portland (PDX) to Seattle (SEA) maintains 8,540 flights. Atlanta (ATL) to Fort Lauderdale (FLL) operates 8,268 flights. The Atlanta (ATL) to LaGuardia (LGA) route runs 7,894 flights, and Boston (BOS) to LaGuardia (LGA) rounds out the top routes.
 
 ## 10 Most Profitable Round Trip Routes
+![Unknown-2](https://github.com/user-attachments/assets/0e4c87cf-28ac-4966-b151-77caa181ba14)
+
 The Washington DC (DCA) to Chicago O'Hare (ORD) route leads in profitability with approximately $218.4 million in profits. While not having the highest revenue, its efficient cost management makes it highly profitable.
 Atlanta (ATL) to Los Angeles (LAX) ranks second, generating about $198.1 million in profit. This route also has the highest revenue among all routes at nearly $397 million, demonstrating strong demand for this cross-country connection.
 The Atlanta (ATL) to Charlotte (CLT) route comes in third with $197.2 million in profit. Despite lower total revenue, its relatively low operating costs help maintain strong profitability.
@@ -54,9 +56,13 @@ Rounding out the top 10 are Dallas-Fort Worth (DFW) to Houston (IAH) with $150.5
 Interestingly, all these routes maintain a consistent 65-66% occupancy rate, suggesting well-optimized capacity management across these profitable routes.
 
 ## Recommended Round Trip Routes for Investment
+![Unknown-3](https://github.com/user-attachments/assets/6a74284c-1d8d-4737-bf97-fe86ac384ff8)
+
  By considering factors like total_profit,Break even,occupancy rate and delays the five recommended routes would be ATL-LGA,DCA-ORD, LGA-ORD, MSP-ORD,BOS-LGA.These routes not only considers the financial perspective but also considers brand Image by considering delays, Operational Effiency by considering Break even etc
 
 ## Break-Even Analysis
+![Unknown-4](https://github.com/user-attachments/assets/1633961e-18be-4216-9362-f3841f5a56d4)
+
 The break-even analysis of the top 5 routes shows how many round trips each route needs to become profitable. The LGA-ORD route needs the most trips (about 65,000) to break even, making it the most demanding route financially. BOS-LGA comes second, needing around 30,000 trips, while ATL-LGA requires 20,000 trips. The DCA-ORD and CHS-CLT routes are more efficient, needing only about 5,000 and 2,000 trips respectively to start making money. This means these last two routes can become profitable much more quickly than the others.
 
 ## Additional Insights
